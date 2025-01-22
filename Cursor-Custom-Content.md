@@ -1,4 +1,4 @@
-# (Cursor Custom Content)[https://examples.motion.dev/react/cursor-custom-content]
+# [Cursor Custom Content](https://examples.motion.dev/react/cursor-custom-content)
 
 ## Dependencies
 
