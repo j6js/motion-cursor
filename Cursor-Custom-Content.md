@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-- `motion``
-- `motion-cursor``
+- `motion`
+- `motion-cursor`
 
 ## Source
 
